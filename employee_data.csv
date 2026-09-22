@@ -1,0 +1,6 @@
+employee_id,name,position,organizational_unit,rank,hire_date,regularization_date,vacation_leave,sick_leave,basic_pay_in_php,employment_status,supervisor,phone_number,email,presence
+1005674,Joseph Peña,Accounts Recievable Supervisor,Finance Department,Supervisor,02-12-2013,7/16/2013,30,15,20000,Permanent,Richard Santos,1234567890,joseph@comapny.com,absent
+1005675,Mark Delos Santos,HR Assistant,HR Department,Rank and File,01-01-2023,,20,2,15000,Probation,Jinky Francisco,2345678901,mark@comapny.com,present
+1005676,Alexander Verdad,Account Recievable Assistant,Finance Department,Rank and File,11-01-2017,05-01-18,30,8,15000,Permanent,Joseph Santos,3456789012,alexander@comapny.com,present
+1005677,Jinky Francisco,Recruitment Supervisor,HR Department,Supervisor,15-10-2021,4/15/2022,16,4,15000,Permanent,,4567890123,jinky@comapny.com,present
+1005678,Richard Santos,Accounts Recievable Head,Finance Department,Manager,16-03-2016,9/16/2016,30,11,30000,Permanent,,5678901234,richard@comapny.com,present
